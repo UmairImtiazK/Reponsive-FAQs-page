@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11967a40.css",
+    "main.js": "/static/js/main.35521b6d.js",
+    "static/media/WorkSans-VariableFont_wght.ttf": "/static/media/WorkSans-VariableFont_wght.a0297787a1a192213b53.ttf",
+    "static/media/WorkSans-Italic-VariableFont_wght.ttf": "/static/media/WorkSans-Italic-VariableFont_wght.909e4faac8822880e462.ttf",
+    "static/media/WorkSans-Bold.ttf": "/static/media/WorkSans-Bold.1cdef49100a51e35264a.ttf",
+    "static/media/WorkSans-SemiBold.ttf": "/static/media/WorkSans-SemiBold.6059d691b0223afc6cc5.ttf",
+    "static/media/WorkSans-Regular.ttf": "/static/media/WorkSans-Regular.7c5aca8a8c320a8df026.ttf",
+    "static/media/background-pattern-mobile.svg": "/static/media/background-pattern-mobile.bbadbddabee663bba888.svg",
+    "static/media/background-pattern-desktop.svg": "/static/media/background-pattern-desktop.621478cf83f8150af604.svg",
+    "index.html": "/index.html",
+    "static/media/icon-star.svg": "/static/media/icon-star.189fd38b8aefdc8fbe0d4008b1ff497e.svg",
+    "static/media/icon-plus.svg": "/static/media/icon-plus.6c5381bcc9a768ea5c3683e11c6bfd6c.svg",
+    "static/media/icon-minus.svg": "/static/media/icon-minus.5575b6de09a1e0deab1dd585ada35f31.svg",
+    "main.11967a40.css.map": "/static/css/main.11967a40.css.map",
+    "main.35521b6d.js.map": "/static/js/main.35521b6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11967a40.css",
+    "static/js/main.35521b6d.js"
+  ]
+}
